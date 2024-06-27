@@ -16,7 +16,7 @@ What do all these layers do?
 
 ### Layer 2: Navigation
 
-![Layer 2](https://github.com/albertodiazz/ferrisSweepQMK/blob/main/img/layer1.png)
+![Layer 2](https://github.com/albertodiazz/ferrisSweepQMK/blob/main/img/layer2.png)
 
 How to flash for Arch Linux?
 ----------------------------
